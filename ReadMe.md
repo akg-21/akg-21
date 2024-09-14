@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I'm a passionate Full Stack Developer with expertise in both front-end and back-end technologies. My focus areas are:<br><br>🔧 Tech Stack:<br><br>🛠️ Backend: Laravel (PHP), Yii2, Spring Boot<br>🎨 Frontend: Bootstrap, React, React Expo<br>📊 Data Science Enthusiast<br>🎓 Master’s in Computer Science with a focus on Data Science
+I'm a passionate Full Stack Developer with expertise in mainly both back-end technologies. My focus areas are:<br><br>🔧 Tech Stack:<br><br>🛠️ Backend: Laravel (PHP), Yii2, Spring Boot<br>🎨 Frontend: Bootstrap, React, React Expo<br>📊 Data Science Enthusiast<br>🎓 Master’s in Computer Science with a focus on Data Science
 
 ## 🌐 Socials:
 
