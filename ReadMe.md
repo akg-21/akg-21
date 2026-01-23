@@ -3,7 +3,7 @@
 Hi, I'm Ajay Krishnan — a dedicated **Backend Developer** and **Data Science Enthusiast** with a Master's in Computer Science. I specialize in building efficient server-side applications, designing secure APIs with Express.js, and applying data-driven solutions to solve real-world problems.
 
 #### 🚀 Tech Stack
-- **Backend & API:** Express.js, Flask, Yii, Laravel, Spring Boot  
+- **Backend & API:**  Laravel,Yii, Spring Boot,Express.js, Flask, 
 - **Data Science:** Python (Pandas, NumPy, scikit-learn, Matplotlib), Jupyter, data visualization, basic ML modeling  
 - **Database:** MySQL, PostgreSQL  
 - **Mobile Backend Integration:** React Native (Expo), Flutter  
