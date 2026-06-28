@@ -10,8 +10,7 @@ Hi, I'm Ajay Krishnan — a dedicated **Backend Developer** and **Data Science E
 - **Frontend (minimal):** Basic React, HTML, JavaScript for API testing  
 - **Tools:** Git, Postman, VSCode, Android Studio, Jupyter, XAMPP
 
-#### 🛠️ What I’m Currently Working On
-- Real-time fall detection system using Express.js backend + Python ML  
+#### 🛠️ What I’m Currently Working On 
 - REST APIs for mobile apps and dashboards  
 
 #### 💡 Interests
