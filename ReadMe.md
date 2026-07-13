@@ -138,8 +138,8 @@ I use modern AI tools to accelerate coding, debugging, and architecture decision
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akg-21&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=2E9EF7&icon_color=2E9EF7" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akg-21&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=2E9EF7" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=akg-21&theme=tokyonight&hide_border=false&show_icons=true&bg_color=0d1117&title_color=2E9EF7&icon_color=2E9EF7" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=akg-21&theme=tokyonight&hide_border=false&layout=compact&bg_color=0d1117&title_color=2E9EF7" />
 </p>
 
 <p align="center">
@@ -147,7 +147,7 @@ I use modern AI tools to accelerate coding, debugging, and architecture decision
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akg-21&theme=dracula&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy-kappa.vercel.app/?username=akg-21&theme=dracula&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
 </p>
 
 <p align="center">
@@ -163,14 +163,6 @@ I use modern AI tools to accelerate coding, debugging, and architecture decision
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akg-21/akg-21/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akg-21/akg-21/output/github-contribution-grid-snake-dark.svg">
 </picture>
-
----
-
-### 💡 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</p>
 
 ---
 
