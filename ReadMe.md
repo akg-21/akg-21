@@ -1,42 +1,137 @@
-#### 👋 About Me
+<h1 align="center">Hi there, I'm Ajay Krishnan 👋</h1>
 
-Hi, I'm Ajay Krishnan — a dedicated **Backend Developer** and **Data Science Enthusiast** with a Master's in Computer Science. I specialize in building efficient server-side applications, designing secure APIs with Express.js, and applying data-driven solutions to solve real-world problems.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+API+Architect;Data+Science+Enthusiast;Building+Scalable+Server-Side+Systems;Turning+Data+Into+Decisions" alt="Typing SVG" />
+</p>
 
-#### 🚀 Tech Stack
-- **Backend & API:**  Laravel,Yii, Spring Boot,Express.js, Flask, 
-- **Data Science:** Python (Pandas, NumPy, scikit-learn, Matplotlib), Jupyter, data visualization, basic ML modeling  
-- **Database:** MySQL, PostgreSQL  
-- **Mobile Backend Integration:** React Native (Expo), Flutter  
-- **Frontend (minimal):** Basic React, HTML, JavaScript for API testing  
-- **Tools:** Git, Postman, VSCode, Android Studio, Jupyter, XAMPP
+<p align="center">
+  <a href="https://linkedin.com/in/ajaykg21">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ajaykrishnan.g21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/akg-21">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-#### 🛠️ What I’m Currently Working On 
-- REST APIs for mobile apps and dashboards  
-
-#### 💡 Interests
-- API-first backend development with Express.js  
-- Data analytics, feature engineering, and predictive modeling  
-- Integration of machine learning into backend workflows  
-- Backend performance optimization and secure authentication systems  
-
-#### 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajaykg21) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajaykrishnan.g21@gmail.com) 
-
-#### 💻 Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-... *(keep your full tech badges list here)* ...
-
-#### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=akg-21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=akg-21&theme=dark&hide_border=false)<br/>
-
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=akg-21&icon=0&color=0" alt="visitor count" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=akg-21&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🧭 About Me
+
+I'm a **Backend Developer** and **Data Science Enthusiast** with a Master's in Computer Science. I build efficient, secure server-side applications and REST APIs, and I like pairing solid backend engineering with data-driven thinking — from feature engineering to lightweight ML integration.
+
+- 🔭 Currently building **REST APIs for mobile apps and dashboards**
+- 🌱 Deepening my skills in **API-first backend design with Express.js**
+- 📊 Exploring **feature engineering & predictive modeling**
+- 🤖 Interested in **ML-integrated backend workflows**
+- ⚡ Focused on **performance optimization & secure authentication**
+- 📫 Reach me at **ajaykrishnan.g21@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+<details open>
+<summary><b>Backend & APIs</b></summary>
+<br/>
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Yii](https://img.shields.io/badge/Yii-00758C?style=for-the-badge&logo=yii&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Data Science</b></summary>
+<br/>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Databases</b></summary>
+<br/>
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Mobile & Frontend Integration</b></summary>
+<br/>
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Languages</b></summary>
+<br/>
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C%23](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Tools & Environments</b></summary>
+<br/>
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+
+</details>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akg-21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akg-21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=akg-21&theme=dark&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akg-21&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akg-21&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+I'm always open to conversations about backend architecture, API design, and applied data science — feel free to reach out on [LinkedIn](https://linkedin.com/in/ajaykg21) or drop me an [email](mailto:ajaykrishnan.g21@gmail.com).
+
+<p align="center"><i>⭐️ From <a href="https://github.com/akg-21">akg-21</a> — thanks for stopping by!</i></p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
