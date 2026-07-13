@@ -16,9 +16,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=akg-21&icon=0&color=0" alt="visitor count" />
-</p>
+
 
 ---
 
@@ -105,26 +103,6 @@ I'm a **Backend Developer** and **Data Science Enthusiast** with a Master's in C
 
 </details>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akg-21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akg-21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=akg-21&theme=dark&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akg-21&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akg-21&theme=react-dark&hide_border=true" />
-</p>
 
 ---
 
