@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ajay Krishnan 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Backend+Developer+%40+Tecforz+Innovations;REST+API+%26+Backend+Architect;Data+Science+Enthusiast;AI-Assisted+Full-Stack+Builder;Building+Scalable+Server-Side+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+API+Architect;Data+Science+Enthusiast;AI-Assisted+Full-Stack+Builder;Building+Scalable+Server-Side+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -27,10 +27,9 @@
 
 ### 🧭 About Me
 
-I'm a **Backend Developer at [Tecforz Innovations Pvt. Ltd.](#-experience)** and a **Data Science Enthusiast** with an M.Sc. in Computer Science with Data Analytics. I build efficient, secure server-side applications and REST APIs, and I like pairing solid backend engineering with data-driven thinking — from feature engineering to lightweight ML integration.
+I'm a **Backend Developer** and a **Data Science Enthusiast** with an M.Sc. in Computer Science with Data Analytics. I build efficient, secure server-side applications and REST APIs, and I like pairing solid backend engineering with data-driven thinking — from feature engineering to lightweight ML integration.
 
-- 💼 **Backend Developer** at **Tecforz Innovations Pvt. Ltd.** (Nov 2026 – present)
-- 🏗️ Previously built **100+ REST APIs** with Laravel & Yii2 for ERP, CRM and finance platforms at Saiha Software
+- 🏗️ Built **100+ REST APIs** with Laravel & Yii2 for ERP, CRM and finance platforms
 - 🌱 Deepening my skills in **API-first backend design and scalable architecture**
 - 📊 Exploring **feature engineering & predictive modeling**
 - 🤖 Interested in **ML-integrated backend workflows**
@@ -38,27 +37,6 @@ I'm a **Backend Developer at [Tecforz Innovations Pvt. Ltd.](#-experience)** and
 - 🧠 Leveraging **AI-assisted development** to ship faster and smarter
 - 🌐 Portfolio: **[akg-21.vercel.app](https://akg-21.vercel.app)**
 - 📫 Reach me at **ajaykrishnan.g21@gmail.com**
-
----
-
-### 💼 Experience
-
-| Role | Company | Period |
-|------|---------|--------|
-| **Backend Developer** | Tecforz Innovations Pvt. Ltd. | Nov 2026 – Present |
-| **Full Stack Developer** | Saiha Software Technologies Pvt. Ltd., Kochi | 2024 – Nov 2026 |
-| **Full Stack Web Developer** | Freelance | 2022 – 2024 |
-
-<details>
-<summary><b>📌 Highlights from Saiha Software</b></summary>
-<br/>
-
-- Designed and developed **100+ RESTful APIs** with Laravel and Yii2 across ERP, CRM, financial and clinic management systems
-- Cut query execution time by **~35%** through MySQL indexing and schema refactoring
-- Applied MVC architecture across projects for cleaner, modular codebases and faster onboarding
-- Ran R&D on new frameworks and automation tools and brought the results into production
-
-</details>
 
 ---
 
@@ -198,7 +176,6 @@ I use modern AI tools to accelerate coding, debugging, and architecture decision
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
-│  💼  Backend development at Tecforz Innovations             │
 │  🔧  REST API architecture for web, mobile & dashboards     │
 │  📈  Feature engineering & predictive modeling              │
 │  🤖  AI-assisted development with Cursor & Antigravity      │
