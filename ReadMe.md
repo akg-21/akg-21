@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ajay Krishnan 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+API+Architect;Data+Science+Enthusiast;AI-Assisted+Full-Stack+Builder;Building+Scalable+Server-Side+Systems;Turning+Data+Into+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Backend+Developer+%40+Tecforz+Innovations;REST+API+%26+Backend+Architect;Data+Science+Enthusiast;AI-Assisted+Full-Stack+Builder;Building+Scalable+Server-Side+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -9,14 +9,17 @@
 </p>
 
 <p align="center">
+  <a href="https://akg-21.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://linkedin.com/in/ajaykg21">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ajaykrishnan.g21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/akg-21">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -24,15 +27,38 @@
 
 ### 🧭 About Me
 
-I'm a **Backend Developer** and **Data Science Enthusiast** with a Master's in Computer Science. I build efficient, secure server-side applications and REST APIs, and I like pairing solid backend engineering with data-driven thinking — from feature engineering to lightweight ML integration.
+I'm a **Backend Developer at [Tecforz Innovations Pvt. Ltd.](#-experience)** and a **Data Science Enthusiast** with an M.Sc. in Computer Science with Data Analytics. I build efficient, secure server-side applications and REST APIs, and I like pairing solid backend engineering with data-driven thinking — from feature engineering to lightweight ML integration.
 
-- 🔭 Currently building **REST APIs for mobile apps and dashboards**
-- 🌱 Deepening my skills in **API-first backend design with Express.js**
+- 💼 **Backend Developer** at **Tecforz Innovations Pvt. Ltd.** (Nov 2026 – present)
+- 🏗️ Previously built **100+ REST APIs** with Laravel & Yii2 for ERP, CRM and finance platforms at Saiha Software
+- 🌱 Deepening my skills in **API-first backend design and scalable architecture**
 - 📊 Exploring **feature engineering & predictive modeling**
 - 🤖 Interested in **ML-integrated backend workflows**
 - ⚡ Focused on **performance optimization & secure authentication**
 - 🧠 Leveraging **AI-assisted development** to ship faster and smarter
+- 🌐 Portfolio: **[akg-21.vercel.app](https://akg-21.vercel.app)**
 - 📫 Reach me at **ajaykrishnan.g21@gmail.com**
+
+---
+
+### 💼 Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| **Backend Developer** | Tecforz Innovations Pvt. Ltd. | Nov 2026 – Present |
+| **Full Stack Developer** | Saiha Software Technologies Pvt. Ltd., Kochi | 2024 – Nov 2026 |
+| **Full Stack Web Developer** | Freelance | 2022 – 2024 |
+
+<details>
+<summary><b>📌 Highlights from Saiha Software</b></summary>
+<br/>
+
+- Designed and developed **100+ RESTful APIs** with Laravel and Yii2 across ERP, CRM, financial and clinic management systems
+- Cut query execution time by **~35%** through MySQL indexing and schema refactoring
+- Applied MVC architecture across projects for cleaner, modular codebases and faster onboarding
+- Ran R&D on new frameworks and automation tools and brought the results into production
+
+</details>
 
 ---
 
@@ -69,9 +95,12 @@ I use modern AI tools to accelerate coding, debugging, and architecture decision
 <summary><b>Backend & APIs</b></summary>
 <br/>
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Yii](https://img.shields.io/badge/Yii-00758C?style=for-the-badge&logo=yii&logoColor=white)
+![Yii](https://img.shields.io/badge/Yii2-00758C?style=for-the-badge&logo=yii&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
@@ -103,11 +132,12 @@ I use modern AI tools to accelerate coding, debugging, and architecture decision
 <summary><b>Mobile & Frontend Integration</b></summary>
 <br/>
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </details>
 
@@ -122,16 +152,28 @@ I use modern AI tools to accelerate coding, debugging, and architecture decision
 </details>
 
 <details open>
-<summary><b>Tools & Environments</b></summary>
+<summary><b>DevOps, Cloud & Tools</b></summary>
 <br/>
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
 </details>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Stack | What it does |
+|---------|-------|--------------|
+| **Green Track** | Spring Boot, Python, MySQL, Flutter | Waste management platform for assigning collection duties, tracking waste metrics and resolving complaints, with Python-based predictive analytics that classifies complaint severity |
+| **Get Your Services** | Laravel, REST APIs | Location-based emergency services app that connects users to nearby responders in real time |
 
 ---
 
@@ -150,17 +192,14 @@ I use modern AI tools to accelerate coding, debugging, and architecture decision
   <img src="https://github-profile-trophy-kappa.vercel.app/?username=akg-21&theme=dracula&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akg-21&theme=react-dark&hide_border=true&color=2E9EF7&line=2E9EF7&point=FFFFFF" />
-</p>
-
 ---
 
 ### 🎯 Currently Focused On
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
-│  🔧  REST API architecture for mobile & dashboard apps      │
+│  💼  Backend development at Tecforz Innovations             │
+│  🔧  REST API architecture for web, mobile & dashboards     │
 │  📈  Feature engineering & predictive modeling              │
 │  🤖  AI-assisted development with Cursor & Antigravity      │
 │  🔐  Secure auth flows & performance optimization           │
@@ -171,12 +210,10 @@ I use modern AI tools to accelerate coding, debugging, and architecture decision
 
 ### 🤝 Let's Connect
 
-I'm always open to conversations about backend architecture, API design, applied data science, and AI-assisted development — feel free to reach out on [LinkedIn](https://linkedin.com/in/ajaykg21) or drop me an [email](mailto:ajaykrishnan.g21@gmail.com).
+I'm always open to conversations about backend architecture, API design, applied data science, and AI-assisted development — check out my [portfolio](https://akg-21.vercel.app), reach out on [LinkedIn](https://linkedin.com/in/ajaykg21), or drop me an [email](mailto:ajaykrishnan.g21@gmail.com).
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:0d1117&height=120&section=footer&text=Thanks%20for%20stopping%20by!%20%E2%AD%90%EF%B8%8F&fontSize=24&fontColor=ffffff&animation=twinkling" />
 </p>
 
 <p align="center"><i>⭐️ From <a href="https://github.com/akg-21">akg-21</a></i></p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
