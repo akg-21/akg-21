@@ -79,21 +79,12 @@ The interesting part is the backend. Token booking uses **pessimistic row locks*
   <a href="https://github.com/akg-21/queue-management-ui"><img src="https://img.shields.io/badge/UI-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="UI repo" /></a>
 </p>
 
-### 🎓 Campus Assignment API
-**Laravel 11 · JWT · MySQL**
+### 🧪 Smaller builds
 
-A clean REST API for student assignments: JWT login, full CRUD, status tracking, rate limiting, and consistent error codes on every response.
-
-<p>
-  <a href="https://github.com/akg-21/assignment-api"><img src="https://img.shields.io/badge/Repo-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Assignment API repo" /></a>
-</p>
-
-### 🧪 Smaller builds with live demos
-
-| Project | Stack | Try it |
+| Project | Stack | Demo |
 |---|---|---|
-| **[expenses-tracker](https://github.com/akg-21/expenses-tracker)** | JavaScript | [Live demo](https://expenses-tracker-one-tawny.vercel.app) |
-| **[train-alert](https://github.com/akg-21/train-alert)** | Python | [Live demo](https://train-alerts-omega.vercel.app) |
+| **[expenses-tracker](https://github.com/akg-21/expenses-tracker)** | JavaScript | [Request a demo](mailto:ajaykrishnan.g21@gmail.com?subject=Demo%20request%3A%20expenses-tracker) |
+| **[train-alert](https://github.com/akg-21/train-alert)** | Python | [Request a demo](mailto:ajaykrishnan.g21@gmail.com?subject=Demo%20request%3A%20train-alert) |
 | **[multi-level affiliate payouts](https://github.com/akg-21/multi_level_affiliate_payout_system)** | PHP · MySQL | Repo |
 
 ---
@@ -111,7 +102,7 @@ A clean REST API for student assignments: JWT login, full CRUD, status tracking,
 
 <p align="center">
   <img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=akg-21&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" />
-  <img height="160" src="https://streak-stats.demolab.com/?user=akg-21&hide_border=true&background=0d1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7&stroke=30363d" alt="GitHub streak" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=akg-21&amp;hide_border=true&amp;background=0d1117&amp;ring=2E9EF7&amp;fire=2E9EF7&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;currStreakLabel=2E9EF7&amp;sideLabels=C9D1D9&amp;dates=8B949E&amp;stroke=30363D" alt="GitHub streak" />
 </p>
 
 ---
