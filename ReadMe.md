@@ -56,6 +56,17 @@ I've built **100+ APIs** for ERP, CRM, finance and clinic software. I enjoy the 
 
 ## 🚀 Projects I'm proud of
 
+### ♻️ Green Track: Waste Management Platform
+**Spring Boot · Flask · Flutter · MySQL**
+
+Admins assign collection duties, track waste metrics and resolve citizen complaints. A Python service classifies complaint severity so the urgent ones get handled first. It's split into an admin API, a citizen API, a Flask ML service and two Flutter apps.
+
+<p>
+  <a href="https://github.com/akg-21/waste_management_v3_waste_management_api"><img src="https://img.shields.io/badge/Admin%20API-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Admin API" /></a>
+  <a href="https://github.com/akg-21/waste_management_v3_flask_app"><img src="https://img.shields.io/badge/ML%20Service-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask service" /></a>
+  <a href="https://github.com/akg-21/waste_management_v3_waste_management_frontend"><img src="https://img.shields.io/badge/App-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter app" /></a>
+</p>
+
 ### 🏥 Patient Queue Management System
 **Spring Boot · MySQL · React + Vite**
 
@@ -66,17 +77,6 @@ The interesting part is the backend. Token booking uses **pessimistic row locks*
 <p>
   <a href="https://github.com/akg-21/queue-management-api"><img src="https://img.shields.io/badge/API-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="API repo" /></a>
   <a href="https://github.com/akg-21/queue-management-ui"><img src="https://img.shields.io/badge/UI-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="UI repo" /></a>
-</p>
-
-### ♻️ Green Track: Waste Management Platform
-**Spring Boot · Flask · Flutter · MySQL**
-
-Admins assign collection duties, track waste metrics and resolve citizen complaints. A Python service classifies complaint severity so the urgent ones get handled first. It's split into an admin API, a citizen API, a Flask ML service and two Flutter apps.
-
-<p>
-  <a href="https://github.com/akg-21/waste_management_v3_waste_management_api"><img src="https://img.shields.io/badge/Admin%20API-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Admin API" /></a>
-  <a href="https://github.com/akg-21/waste_management_v3_flask_app"><img src="https://img.shields.io/badge/ML%20Service-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask service" /></a>
-  <a href="https://github.com/akg-21/waste_management_v3_waste_management_frontend"><img src="https://img.shields.io/badge/App-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter app" /></a>
 </p>
 
 ### 🎓 Campus Assignment API
