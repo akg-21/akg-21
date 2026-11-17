@@ -1,196 +1,127 @@
-<h1 align="center">Hi there, I'm Ajay Krishnan 👋</h1>
-
+<!-- Header banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+API+Architect;Data+Science+Enthusiast;AI-Assisted+Full-Stack+Builder;Building+Scalable+Server-Side+Systems" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2E9EF7&height=200&section=header&text=Ajay%20Krishnan&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Backend%20Developer%20%C2%B7%20Spring%20Boot%20%C2%B7%20Laravel%20%C2%B7%20Yii2&descAlignY=56&descSize=18&animation=fadeIn" alt="Ajay Krishnan, Backend Developer" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akg-21&color=2E9EF7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2E9EF7&center=true&vCenter=true&width=620&lines=I+build+the+part+of+your+app+users+never+see;APIs+that+stay+fast+when+traffic+doesn't+stay+small;Open+to+remote+roles+%26+freelance+projects" alt="I build the part of your app users never see" />
 </p>
 
 <p align="center">
-  <a href="https://akg-21.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://akg-21.vercel.app"><img src="https://img.shields.io/badge/Portfolio-akg--21.vercel.app-2E9EF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/ajaykg21"><img src="https://img.shields.io/badge/LinkedIn-ajaykg21-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ajaykrishnan.g21@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20remote%20%26%20freelance-2ea44f?style=flat-square" alt="Open to remote and freelance work" />
+  <img src="https://img.shields.io/badge/Based%20in-Kerala%2C%20India%20(IST)-555?style=flat-square" alt="Based in Kerala, India" />
+</p>
+
+---
+
+## 👋 Hey, I'm Ajay
+
+I'm a backend developer who has been shipping production code since 2022, first as a freelancer and then on product teams. Most of my days are spent in **Spring Boot** and **PHP (Laravel, Yii2)**, designing REST APIs, shaping MySQL schemas, and making slow endpoints fast.
+
+I've built **100+ APIs** for ERP, CRM, finance and clinic software. I enjoy the unglamorous stuff: clean data models, race conditions handled properly, and APIs that a frontend or mobile team can actually rely on.
+
+**What I can help you with**
+
+- 🔌 **REST APIs** for web and mobile apps, with auth, validation and clear docs
+- 🗄️ **Database design and tuning**: indexing and schema refactors (cut query time by ~35% on one system)
+- 🧩 **Business systems**: ERP, CRM, billing, booking and queue workflows
+- 🛠️ **Rescue work**: picking up an existing Laravel or Spring codebase and making it stable
+
+---
+
+## 🧰 What I work with
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,mysql,python,flask,django&theme=dark" alt="Backend skills" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=react,js,flutter,dart,git,linux,aws,postman&theme=dark" alt="Frontend and tools" />
   </a>
-  <a href="https://linkedin.com/in/ajaykg21">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ajaykrishnan.g21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/akg-21">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
-### 🧭 About Me
-
-I'm a **Backend Developer** and a **Data Science Enthusiast** with an M.Sc. in Computer Science with Data Analytics. I build efficient, secure server-side applications and REST APIs, and I like pairing solid backend engineering with data-driven thinking — from feature engineering to lightweight ML integration.
-
-- 🏗️ Built **100+ REST APIs** with Laravel & Yii2 for ERP, CRM and finance platforms
-- 🌱 Deepening my skills in **API-first backend design and scalable architecture**
-- 📊 Exploring **feature engineering & predictive modeling**
-- 🤖 Interested in **ML-integrated backend workflows**
-- ⚡ Focused on **performance optimization & secure authentication**
-- 🧠 Leveraging **AI-assisted development** to ship faster and smarter
-- 🌐 Portfolio: **[akg-21.vercel.app](https://akg-21.vercel.app)**
-- 📫 Reach me at **ajaykrishnan.g21@gmail.com**
-
----
-
-### 🤖 AI-Powered Development
-
-I use modern AI tools to accelerate coding, debugging, and architecture decisions:
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cursor-AI%20IDE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/Antigravity-Agentic%20IDE-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-Partner-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
-  <img src="https://img.shields.io/badge/Claude-Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/ChatGPT-OpenAI-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-</p>
-
-<details>
-<summary><b>🛰️ How I use these tools</b></summary>
-<br/>
-
-| Tool | How I use it |
-|------|--------------|
-| **Cursor** | AI-native pair programming, refactors, and codebase navigation |
-| **Antigravity** | Agentic workflows for multi-step feature builds & automation |
-| **GitHub Copilot** | Inline completions & boilerplate generation |
-| **Claude / ChatGPT** | Architecture reviews, debugging, and technical writing |
-
-</details>
-
----
-
-### 🛠️ Tech Stack
-
-<details open>
-<summary><b>Backend & APIs</b></summary>
-<br/>
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Yii](https://img.shields.io/badge/Yii2-00758C?style=for-the-badge&logo=yii&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>Data Science</b></summary>
-<br/>
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>Databases</b></summary>
-<br/>
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>Mobile & Frontend Integration</b></summary>
-<br/>
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>Languages</b></summary>
-<br/>
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C%23](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>DevOps, Cloud & Tools</b></summary>
-<br/>
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-
-</details>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Stack | What it does |
-|---------|-------|--------------|
-| **Green Track** | Spring Boot, Python, MySQL, Flutter | Waste management platform for assigning collection duties, tracking waste metrics and resolving complaints, with Python-based predictive analytics that classifies complaint severity |
-| **Get Your Services** | Laravel, REST APIs | Location-based emergency services app that connects users to nearby responders in real time |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=akg-21&theme=tokyonight&hide_border=false&show_icons=true&bg_color=0d1117&title_color=2E9EF7&icon_color=2E9EF7" />
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=akg-21&theme=tokyonight&hide_border=false&layout=compact&bg_color=0d1117&title_color=2E9EF7" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=akg-21&theme=tokyonight&hide_border=false&background=0d1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy-kappa.vercel.app/?username=akg-21&theme=dracula&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+  <img src="https://img.shields.io/badge/Yii2-00758C?style=flat-square&logo=yii&logoColor=white" alt="Yii2" />
+  <img src="https://img.shields.io/badge/REST%20APIs-2E9EF7?style=flat-square" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/JWT%20Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/MVC-555?style=flat-square" alt="MVC" />
 </p>
 
 ---
 
-### 🎯 Currently Focused On
+## 🚀 Projects I'm proud of
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│  🔧  REST API architecture for web, mobile & dashboards     │
-│  📈  Feature engineering & predictive modeling              │
-│  🤖  AI-assisted development with Cursor & Antigravity      │
-│  🔐  Secure auth flows & performance optimization           │
-└─────────────────────────────────────────────────────────────┘
-```
+### 🏥 Patient Queue Management System
+**Spring Boot · MySQL · React + Vite**
+
+A complete token queue system for clinics: patients book a token on their phone, a TV board shows who's being served, and reception staff run the line from a dashboard.
+
+The interesting part is the backend. Token booking uses **pessimistic row locks** and a unique `(date, token)` constraint, so two patients tapping "book" at the same moment can never get the same number. Tokens reset daily with no cron job, and skipped patients move to the back without losing their token number.
+
+<p>
+  <a href="https://github.com/akg-21/queue-management-api"><img src="https://img.shields.io/badge/API-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="API repo" /></a>
+  <a href="https://github.com/akg-21/queue-management-ui"><img src="https://img.shields.io/badge/UI-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="UI repo" /></a>
+</p>
+
+### ♻️ Green Track: Waste Management Platform
+**Spring Boot · Flask · Flutter · MySQL**
+
+Admins assign collection duties, track waste metrics and resolve citizen complaints. A Python service classifies complaint severity so the urgent ones get handled first. It's split into an admin API, a citizen API, a Flask ML service and two Flutter apps.
+
+<p>
+  <a href="https://github.com/akg-21/waste_management_v3_waste_management_api"><img src="https://img.shields.io/badge/Admin%20API-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Admin API" /></a>
+  <a href="https://github.com/akg-21/waste_management_v3_flask_app"><img src="https://img.shields.io/badge/ML%20Service-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask service" /></a>
+  <a href="https://github.com/akg-21/waste_management_v3_waste_management_frontend"><img src="https://img.shields.io/badge/App-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter app" /></a>
+</p>
+
+### 🎓 Campus Assignment API
+**Laravel 11 · JWT · MySQL**
+
+A clean REST API for student assignments: JWT login, full CRUD, status tracking, rate limiting, and consistent error codes on every response.
+
+<p>
+  <a href="https://github.com/akg-21/assignment-api"><img src="https://img.shields.io/badge/Repo-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Assignment API repo" /></a>
+</p>
+
+### 🧪 Smaller builds with live demos
+
+| Project | Stack | Try it |
+|---|---|---|
+| **[expenses-tracker](https://github.com/akg-21/expenses-tracker)** | JavaScript | [Live demo](https://expenses-tracker-one-tawny.vercel.app) |
+| **[train-alert](https://github.com/akg-21/train-alert)** | Python | [Live demo](https://train-alerts-omega.vercel.app) |
+| **[multi-level affiliate payouts](https://github.com/akg-21/multi_level_affiliate_payout_system)** | PHP · MySQL | Repo |
 
 ---
 
-### 🤝 Let's Connect
+## 🔭 What I'm up to right now
 
-I'm always open to conversations about backend architecture, API design, applied data science, and AI-assisted development — check out my [portfolio](https://akg-21.vercel.app), reach out on [LinkedIn](https://linkedin.com/in/ajaykg21), or drop me an [email](mailto:ajaykrishnan.g21@gmail.com).
+- 🧱 Shipping backend features at my full-time job
+- 🚆 Hacking on **train-alert** and **Huddle** in the evenings
+- 📚 Going deeper into **Spring Boot**: security, testing and clean service layers
+- 🤝 Taking on **remote and freelance** backend projects
+
+---
+
+## 📈 On GitHub
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:0d1117&height=120&section=footer&text=Thanks%20for%20stopping%20by!%20%E2%AD%90%EF%B8%8F&fontSize=24&fontColor=ffffff&animation=twinkling" />
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=akg-21&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=akg-21&hide_border=true&background=0d1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7&stroke=30363d" alt="GitHub streak" />
 </p>
 
-<p align="center"><i>⭐️ From <a href="https://github.com/akg-21">akg-21</a></i></p>
+---
+
+## 📬 Let's talk
+
+Got an API to build, a slow system to fix, or a remote role that fits?
+
+**Email:** [ajaykrishnan.g21@gmail.com](mailto:ajaykrishnan.g21@gmail.com) · **LinkedIn:** [ajaykg21](https://linkedin.com/in/ajaykg21) · **Portfolio:** [akg-21.vercel.app](https://akg-21.vercel.app)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:0d1117&height=110&section=footer" alt="" />
+</p>
