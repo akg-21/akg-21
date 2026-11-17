@@ -41,7 +41,7 @@ I've built **100+ APIs** for ERP, CRM, finance and clinic software. I enjoy the 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,mysql,python,flask,django&theme=dark" alt="Backend skills" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=react,js,flutter,dart,git,linux,aws,postman&theme=dark" alt="Frontend and tools" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,react,js,flutter,dart,git,linux,aws,postman&theme=dark" alt="Frontend and tools" />
   </a>
 </p>
 
@@ -62,9 +62,7 @@ I've built **100+ APIs** for ERP, CRM, finance and clinic software. I enjoy the 
 Admins assign collection duties, track waste metrics and resolve citizen complaints. A Python service classifies complaint severity so the urgent ones get handled first. It's split into an admin API, a citizen API, a Flask ML service and two Flutter apps.
 
 <p>
-  <a href="https://github.com/akg-21/waste_management_v3_waste_management_api"><img src="https://img.shields.io/badge/Admin%20API-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Admin API" /></a>
-  <a href="https://github.com/akg-21/waste_management_v3_flask_app"><img src="https://img.shields.io/badge/ML%20Service-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask service" /></a>
-  <a href="https://github.com/akg-21/waste_management_v3_waste_management_frontend"><img src="https://img.shields.io/badge/App-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter app" /></a>
+  <a href="mailto:ajaykrishnan.g21@gmail.com?subject=Demo%20request%3A%20Green%20Track"><img src="https://img.shields.io/badge/Request%20a%20demo-Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Request a demo of Green Track by email" /></a>
 </p>
 
 ### 🏥 Patient Queue Management System
@@ -77,14 +75,51 @@ The interesting part is the backend. Token booking uses **pessimistic row locks*
 <p>
   <a href="https://github.com/akg-21/queue-management-api"><img src="https://img.shields.io/badge/API-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="API repo" /></a>
   <a href="https://github.com/akg-21/queue-management-ui"><img src="https://img.shields.io/badge/UI-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="UI repo" /></a>
+  <a href="mailto:ajaykrishnan.g21@gmail.com?subject=Demo%20request%3A%20Patient%20Queue%20Management%20System"><img src="https://img.shields.io/badge/Request%20a%20demo-Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Request a demo of the queue system by email" /></a>
+</p>
+
+### 🧭 Career Compass V2
+**React · Node.js · Express · MySQL**
+
+An AI-powered career guidance and job platform with a separate frontend and backend. It handles sign-up and login, matches people to jobs, and runs on REST APIs built to scale for real use.
+
+<p>
+  <a href="mailto:ajaykrishnan.g21@gmail.com?subject=Demo%20request%3A%20Career%20Compass%20V2"><img src="https://img.shields.io/badge/Request%20a%20demo-Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Request a demo of Career Compass V2 by email" /></a>
+</p>
+
+### 🛒 Spring Boot E-Commerce
+**Spring Boot · Java · MySQL · JWT**
+
+An e-commerce backend built the way enterprise Java teams do it: JWT authentication, full product and order CRUD, and tuned REST APIs on MySQL.
+
+<p>
+  <a href="mailto:ajaykrishnan.g21@gmail.com?subject=Demo%20request%3A%20Spring%20Boot%20E-Commerce"><img src="https://img.shields.io/badge/Request%20a%20demo-Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Request a demo of Spring Boot E-Commerce by email" /></a>
+</p>
+
+### 🚑 Get Your Services
+**Laravel · REST APIs · Location APIs**
+
+A location-based emergency services app that connects people to nearby responders in real time. The focus is low latency and reliable location matching, because every second counts in an emergency.
+
+<p>
+  <a href="mailto:ajaykrishnan.g21@gmail.com?subject=Demo%20request%3A%20Get%20Your%20Services"><img src="https://img.shields.io/badge/Request%20a%20demo-Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Request a demo of Get Your Services by email" /></a>
+</p>
+
+### 🩺 Fall Detection & Health Monitor
+**Node.js · Python · WebSockets · AI**
+
+A real-time health monitor that detects falls through camera and sensor input, sends instant alerts, tracks vitals, and shows everything on a live dashboard.
+
+<p>
+  <a href="mailto:ajaykrishnan.g21@gmail.com?subject=Demo%20request%3A%20Fall%20Detection%20%26%20Health%20Monitor"><img src="https://img.shields.io/badge/Request%20a%20demo-Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Request a demo of Fall Detection & Health Monitor by email" /></a>
 </p>
 
 ### 🧪 Smaller builds
 
 | Project | Stack | Demo |
 |---|---|---|
-| **[expenses-tracker](https://github.com/akg-21/expenses-tracker)** | JavaScript | [Request a demo](mailto:ajaykrishnan.g21@gmail.com?subject=Demo%20request%3A%20expenses-tracker) |
-| **[train-alert](https://github.com/akg-21/train-alert)** | Python | [Request a demo](mailto:ajaykrishnan.g21@gmail.com?subject=Demo%20request%3A%20train-alert) |
+| **expenses-tracker** | JavaScript | [Request a demo](mailto:ajaykrishnan.g21@gmail.com?subject=Demo%20request%3A%20expenses-tracker) |
+| **train-alert** | Python | [Request a demo](mailto:ajaykrishnan.g21@gmail.com?subject=Demo%20request%3A%20train-alert) |
 | **[multi-level affiliate payouts](https://github.com/akg-21/multi_level_affiliate_payout_system)** | PHP · MySQL | Repo |
 
 ---
